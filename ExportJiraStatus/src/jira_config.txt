@@ -1,0 +1,7 @@
+[DEFAULT]
+jira_url = https://wigglecrc.atlassian.net/
+auth_user = <user login name>
+auth_token = <user auth token>
+project_id = EPD
+convert_dst = TRUE
+status_list = New, Refining, Ready for Development, In Development, Review & Fix, Ready for QA, Test & Fix, Demo, Done

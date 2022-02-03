@@ -1,0 +1,6 @@
+[DEFAULT]
+jira_url = https://wigglecrc.atlassian.net/
+auth_user = <user login name>
+auth_token = <user auth token>
+project_id = EPD
+convert_dst = TRUE
